@@ -95,8 +95,12 @@ These tools were used to search for specific features of communities and MAGs:
 
 ### Results
 + We got high and medium quality MAGs for each of our sponges potential symbionts
+![image](https://user-images.githubusercontent.com/90505680/171189586-9ceea33e-592e-428f-8c9e-d6297797c5f0.png)
 + The FISH probes were designed with DECIPHER's Design Probes web tool and checked with mathFISH with different parameters of the experiment. They will be tested in vivo soon
-+ Symbiont features: eukaryotic-like protein domains (ELPs), bacteria defence systemsproduction of secondary metabolites as chemical defensive molecules,  production of vitamins. One of our studied symbionts had a сobalamin biosynthesis pathway and different defense systems.
++ Symbiont features: eukaryotic-like protein domains (ELPs), bacteria defence systemsproduction of secondary metabolites as chemical defensive molecules,  production of vitamins. One of our studied symbionts had a сobalamin biosynthesis pathway and different defense systems (RM type II and Hachiman & RM type I).
+![image](https://user-images.githubusercontent.com/90505680/171189727-049fd3d8-80d0-406e-aeb1-eee471ccdf7b.png)
+![image](https://user-images.githubusercontent.com/90505680/171189750-1513aec4-d566-4f6b-a351-e5627a87e3df.png)
+![image](https://user-images.githubusercontent.com/90505680/171189767-11ff0875-9d3e-4de9-bb51-b30fa58ddeb3.png)
 
 ### Conclusions
 We investigated different metods of binning and annotation of contigs and MAGs.
