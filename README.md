@@ -98,10 +98,8 @@ These tools were used to search for specific features of communities and MAGs:
 ![image](https://user-images.githubusercontent.com/90505680/171190421-e53ad8bf-5fe2-4912-bd53-3a25834a2664.png)
 + The FISH probes were designed with DECIPHER's Design Probes web tool and checked with mathFISH with different parameters of the experiment. They will be tested in vivo soon
 + Symbiont features: eukaryotic-like protein domains (ELPs), bacteria defence systemsproduction of secondary metabolites as chemical defensive molecules,  production of vitamins. One of our studied symbionts had a сobalamin biosynthesis pathway and different defense systems (RM type II and Hachiman & RM type I).
-
-![image](https://user-images.githubusercontent.com/90505680/171189727-049fd3d8-80d0-406e-aeb1-eee471ccdf7b.png)
 ![image](https://user-images.githubusercontent.com/90505680/171189750-1513aec4-d566-4f6b-a351-e5627a87e3df.png)
 ![image](https://user-images.githubusercontent.com/90505680/171189767-11ff0875-9d3e-4de9-bb51-b30fa58ddeb3.png)
 
 ### Conclusions
-We investigated different metods of binning and annotation of contigs and MAGs.
+We investigated different metods of binning and annotation of contigs and MAGs. The use of a large number of different programs allows you to get more complete information about the object of research, while the use of programs aimed at the study of the same target can help supplement the information when combining the results. For example, the programs for annotation of bacterial defense systems PADLOC and DefenseFinder differ slightly in the set of systems, so they can be used in addition to each other. Toolkits for full annotation of all proteins can also rely on different databases. Therefore, it is good to have a large set of tools for data analysis in stock.
