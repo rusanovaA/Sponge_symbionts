@@ -3,7 +3,7 @@
 ## Workflow for identification and characterisation of sponge-specific bacterial symbionts
 
 ### Introduction
-Sponges (phylum *Porifera*) form symbiotic relationship with the community of microorganisms. Sponges and their symbionts produce various pharmacologically active substances. These communities differ in taxonomic composition from those of the surrounding seawater. Metagenomic analysis of the microbiome allows to find out the taxonomic diversity and properties of the microbial community.
+Sponges (phylum *Porifera*) form symbiotic relationship with the community of microorganisms. Sponges and their symbionts produce various pharmacologically active substances. These communities differ in taxonomic composition from those of the surrounding seawater. Metagenomic analysis of the microbiome allows to find out the taxonomic diversity and properties of the microbial community[^1, 2].
 ### Aim, tasks and data
 The aim of the project is to prove the presence and investigate the properties of bacterial symbionts of sponges.
 
@@ -97,9 +97,14 @@ These tools were used to search for specific features of communities and MAGs:
 + We got high and medium quality MAGs for each of our sponges potential symbionts
 ![image](https://user-images.githubusercontent.com/90505680/171190421-e53ad8bf-5fe2-4912-bd53-3a25834a2664.png)
 + The FISH probes were designed with DECIPHER's Design Probes web tool and checked with mathFISH with different parameters of the experiment. They will be tested in vivo soon
-+ Symbiont features: eukaryotic-like protein domains (ELPs), bacteria defence systemsproduction of secondary metabolites as chemical defensive molecules,  production of vitamins. One of our studied symbionts had a сobalamin biosynthesis pathway and different defense systems (RM type II and Hachiman & RM type I).
++ Symbiont features: eukaryotic-like protein domains (ELPs), bacteria defence systemsproduction of secondary metabolites as chemical defensive molecules,  production of vitamins[^3]. One of our studied symbionts had a сobalamin biosynthesis pathway and different defense systems (RM type II and Hachiman & RM type I).
 ![image](https://user-images.githubusercontent.com/90505680/171189750-1513aec4-d566-4f6b-a351-e5627a87e3df.png)
 ![image](https://user-images.githubusercontent.com/90505680/171189767-11ff0875-9d3e-4de9-bb51-b30fa58ddeb3.png)
 
 ### Conclusions
 We investigated different metods of binning and annotation of contigs and MAGs. The use of a large number of different programs allows you to get more complete information about the object of research, while the use of programs aimed at the study of the same target can help supplement the information when combining the results. For example, the programs for annotation of bacterial defense systems PADLOC and DefenseFinder differ slightly in the set of systems, so they can be used in addition to each other. Toolkits for full annotation of all proteins can also rely on different databases. Therefore, it is good to have a large set of tools for data analysis in stock.
+
+### References
+1. Knobloch S, Jóhannsson R, Marteinsson V Bacterial diversity in the marine sponge Halichondria panicea from Icelandic waters and host specificity of its dominant symbiont Candidatus Halichondribacter symbioticus FEMS Microbiol Ecol 2019 Jan 1;95
+2. Gauthier M EA, Watson JR and Degnan SM 2016 Draft Genomes Shed Light on the Dual Bacterial Symbiosis that Dominates the Microbiome of the Coral Reef Sponge Amphimedon queenslandica Front Mar Sci 3:196
+3. Thomas, T Rusch D DeMaere M et al Functional genomic signatures of sponge bacteria reveal unique and shared features of symbiosis ISME J 4 1557-1567 (2010)
